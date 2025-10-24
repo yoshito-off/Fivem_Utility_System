@@ -36,8 +36,8 @@ Le format `.exe` est utilisé uniquement pour :
 - simplifier l’utilisation pour les utilisateurs finaux.
 
 Chaque version officielle d’Oryntra est vérifiable grâce à :
-- un **hash SHA256** (intégrité),
-- une **signature numérique GPG** (authenticité),
+- un **hash SHA256** (intégrité),  
+- une **signature numérique GPG** (authenticité),  
 - une **vérification VirusTotal publique** (transparence).
 
 ---
@@ -45,9 +45,17 @@ Chaque version officielle d’Oryntra est vérifiable grâce à :
 ## 🛡️ Vérification de l’exécutable
 
 ### 🔸 1. Vérification de l’intégrité (SHA256)
+
 Chaque release contient un fichier `Oryntra_vX.Y.Z_SHA256.txt` avec le hash SHA256 du `.exe`.
 
 **Sous PowerShell (Windows) :**
 ```powershell
 Get-FileHash .\Oryntra.exe -Algorithm SHA256
 Get-Content .\Oryntra_v1.0.0_SHA256.txt
+<div align="center">
+
+💬 Discord officiel : https://discord.gg/hrAQCT48Yv
+
+🌐 Site web : https://oryntra.fr
+
+</div>
