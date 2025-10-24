@@ -3,6 +3,11 @@
 > **Oryntra** est un utilitaire complet et professionnel conçu pour les **développeurs et créateurs de serveurs FiveM**.  
 > Il permet d’organiser automatiquement vos ressources *(véhicules, mappings, tenues, armes, etc.)* en un seul clic, via une **interface console claire, rapide et moderne.**
 
+
+[💬 Discord officiel](https://discord.gg/hrAQCT48Yv)
+
+[🌐 Site web](https://oryntra.fr)
+
 ---
 
 ## ⚙️ Fonctionnalités principales
@@ -53,9 +58,6 @@ Chaque release contient un fichier `Oryntra_vX.Y.Z_SHA256.txt` avec le hash SHA2
 Get-FileHash .\Oryntra.exe -Algorithm SHA256
 Get-Content .\Oryntra_v1.0.0_SHA256.txt
 <div align="center">
+```
 
-💬 Discord officiel : https://discord.gg/hrAQCT48Yv
 
-🌐 Site web : https://oryntra.fr
-
-</div>
