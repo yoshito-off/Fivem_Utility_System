@@ -6,7 +6,7 @@
 > Un utilitaire **professionnel** et **100% local** conçu pour les **développeurs FiveM**.  
 > Automatisez la gestion de vos ressources en **un seul clic** grâce à une interface console **moderne**, **fluide** et **ergonomique**.
 
-[![Discord](https://img.shields.io/badge/Discord-Oryntra-5865F2?logo=discord dev&logoColor=white)](https://discord.gg/hrAQCT48Yv)
+[![Discord](https://img.shields.io/badge/Discord-Oryntra-5865F2?logo=discorddev&logoColor=white)](https://discord.gg/hrAQCT48Yv)
 [![Website](https://img.shields.io/badge/Site_Web-Oryntra.fr-2ea44f?logo=google-chrome&logoColor=white)](https://oryntra.fr)
 [![License](https://img.shields.io/badge/Licence-Propriétaire-orange)](#)
 [![Platform](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows&logoColor=white)](#)
