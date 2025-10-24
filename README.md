@@ -8,7 +8,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Oryntra_dev-5865F2?logo=discord&logoColor=white)](https://discord.gg/hrAQCT48Yv)
 [![Website](https://img.shields.io/badge/Site_Web-Oryntra.fr-2ea44f?logo=google-chrome&logoColor=white)](https://oryntra.fr)
-[![License](https://img.shields.io/badge/Licence-Propriétaire-orange)](#)
+[![License](https://img.shields.io/badge/Licence-Propri%C3%A9taire-red?logo=shield&logoColor=white)](#)
 [![Platform](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows&logoColor=white)](#)
 
 </div>
