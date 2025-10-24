@@ -1,0 +1,60 @@
+─────────────────────────────────────────────
+ORYNTRA - LICENCE D’UTILISATION (EULA)
+Version 1.0 — 2025-10-24
+─────────────────────────────────────────────
+
+Copyright (c) 2025 Oryntra.  
+Tous droits réservés.
+
+Le logiciel **Oryntra**, y compris son code source, son exécutable (.exe) et tout fichier associé,
+est la propriété exclusive de son auteur.  
+Aucune partie du logiciel ne peut être copiée, modifiée, décompilée, redistribuée ou revendue
+sans l’autorisation écrite expresse de l’auteur.
+
+─────────────────────────────────────────────
+🔹 AUTORISÉ :
+─────────────────────────────────────────────
+- Utiliser Oryntra à des fins personnelles ou professionnelles.
+- Distribuer le fichier exécutable original uniquement à partir des canaux officiels :
+  - [https://oryntra.fr](https://oryntra.fr)
+  - [Discord Oryntra](https://discord.gg/hrAQCT48Yv)
+
+─────────────────────────────────────────────
+🔸 INTERDIT :
+─────────────────────────────────────────────
+- Modifier, décompiler, extraire ou analyser le code source.
+- Redistribuer le logiciel sous une autre forme.
+- Revendre, louer ou inclure Oryntra dans un autre produit.
+- Supprimer ou modifier les mentions de copyright.
+
+─────────────────────────────────────────────
+⚠️ SÉCURITÉ ET TRANSPARENCE :
+─────────────────────────────────────────────
+Oryntra n’est **pas un hack, ni cheat, ni un logiciel malveillant**.  
+Le programme est un **outil local de gestion de fichiers** conçu exclusivement
+pour les créateurs et développeurs de serveurs FiveM.
+
+Chaque version officielle d’Oryntra est :
+- vérifiée par un **hash SHA256** garantissant son intégrité,
+- accompagnée d’une **signature numérique GPG** prouvant son authenticité,
+- soumise à un **rapport VirusTotal public** pour garantir l’absence de logiciels malveillants.
+
+Les utilisateurs peuvent consulter le hash SHA256 fourni avec chaque release
+et comparer la valeur via PowerShell :
+```powershell
+Get-FileHash .\Oryntra.exe -Algorithm SHA256
+─────────────────────────────────────────────
+⚖️ LIMITATION DE RESPONSABILITÉ :
+─────────────────────────────────────────────
+Le logiciel est fourni « TEL QUEL » sans garantie d’aucune sorte.
+L’auteur ne pourra être tenu responsable de tout dommage, perte de données
+ou conséquence liée à l’utilisation ou au dysfonctionnement du programme.
+
+─────────────────────────────────────────────
+📞 CONTACT :
+─────────────────────────────────────────────
+Site : https://oryntra.fr
+Discord : https://discord.gg/hrAQCT48Yv
+Email : yoshito.pro@outlook.fr
+
+─────────────────────────────────────────────
